@@ -1,0 +1,105 @@
+.navbar
+{
+    position: fixed;
+}
+.container-fluid
+{
+    padding: 0 7%;
+}
+.img
+{
+  width: 1349px;
+  height: 625px;
+}
+a
+{
+    display: inline-block;
+    color: #000000;
+    position: relative;
+    bottom: 600px;
+
+}
+h5
+{
+    display: inline-block;
+    position: relative;
+}
+a:hover
+{
+    color: #000000;
+   
+}
+.tagline
+{
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    position: relative;
+    display: inline-block;
+    color: black;
+    font-size: 50px;
+    right: 40px;
+    bottom: 475px;
+    left: 0px;
+}
+.newsletter {
+    padding: 80px 0;
+    position: relative;
+    bottom: 525px;
+    right: 65px;
+    }
+    
+    .newsletter .content {
+    max-width: 650px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative; }
+    .newsletter .content h2 {
+    color: #243c4f;
+    margin-bottom: 40px; }
+    .newsletter .content .form-control {
+    height: 50px;
+    border-color: #ffffff;
+    border-radius:0;
+    }
+    .newsletter .content.form-control:focus {
+    box-shadow: none;
+    border: 2px solid #243c4f;
+    }
+    .newsletter .content .btn {
+    min-height: 50px; 
+    border-radius:0;
+    background: black;
+    color: #fff;
+    font-weight:600;
+    }
+    .find:hover{
+        background: gray;
+    }
+    .find
+    {
+        left: 10px;
+    }
+    .log
+    {
+        font-family: 'Cabin', sans-serif;
+        height: 50px;
+        width: 100px;
+        color: black;
+        position: relative;
+        display: inline-block;
+ 
+        bottom: 30px;
+        top: 0px;
+    left: 550px;
+}
+   
+    .sign
+    {
+        font-family: 'Cabin', sans-serif;
+        height: 50px;
+        width: 100px;
+        position: relative;
+        display: inline-block;
+        left: 850px;
+        bottom: 50px;
+    }
+   
